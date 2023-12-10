@@ -1,0 +1,17 @@
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.deps.json
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfo.cs
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\refint\SistemaVenta.Utility.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.pdb
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\ref\SistemaVenta.Utility.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.pdb
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.CopyComplete

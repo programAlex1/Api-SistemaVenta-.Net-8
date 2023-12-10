@@ -1,0 +1,14 @@
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.deps.json
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.runtimeconfig.json
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.pdb
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfo.cs
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\refint\SistemaVenta.Model.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.genruntimeconfig.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\ref\SistemaVenta.Model.dll

@@ -1,0 +1,11 @@
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.deps.json
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfo.cs
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\User\Documentos\PROYECTOS .NET REST\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll
